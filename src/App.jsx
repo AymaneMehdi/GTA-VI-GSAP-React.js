@@ -18,6 +18,7 @@ function App() {
       <FirstVideo />
       <Jason />
       <SecondVideo/>
+      <Lucia/>
     </main>
   );
 }
