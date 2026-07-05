@@ -1,6 +1,10 @@
+import NavBar from "./sections/NavBar";
+
 function App() {
   return (
-    <main></main>
+    <main>
+      <NavBar />
+    </main>
   );
 }
 
