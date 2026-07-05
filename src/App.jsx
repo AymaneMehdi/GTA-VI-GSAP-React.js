@@ -9,6 +9,7 @@ import SecondVideo from "./sections/SecondVideo";
 import Lucia from "./sections/Lucia";
 import PostCard from "./sections/PostCard";
 import FinalVideo from "./sections/FinalVideo";
+import ComingSoon from "./sections/ComingSoon-Section";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -23,6 +24,7 @@ function App() {
       <Lucia />
       <PostCard />
       <FinalVideo/>
+      <ComingSoon />
     </main>
   );
 }
